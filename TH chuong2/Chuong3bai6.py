@@ -1,0 +1,7 @@
+print(" /: là toán tử chia")
+print(" //: là toán tử chia lấy phần nguyên")
+print(" %: là toán tử chia lấy phần dư")
+print(" **: là toán tử lũy thừa")
+print(" and: là toán tử kết hợp hai biểu thức logic")
+print(" or: là toán tử Hoặc dùng để kiểm tra ít nhất 1 biểu thức đúng")
+print(" is: toán tử so sánh")
